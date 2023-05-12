@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-angkaharimau.github.io/hariu-1/sitemap.xml
